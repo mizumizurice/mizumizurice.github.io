@@ -1,0 +1,45 @@
+{
+    "homePageTitle": "Mizumamna [Official]",
+    "header": {
+        "pages": "Pages",
+        "profileDesc": "20 years old. Engaged in composition, coding, accounting, and more. <br /> Fluent in English 🇬🇧 and Japanese 🇯🇵. <br /> Currently studying to become a certified tax accountant.",
+        "showMore": "Show More",
+        "socials": "Social",
+        "contact": "Contact"
+    },
+    "socialLink": {
+        "x": "X (Twitter) - Recommended",
+        "xDesc": "You can also contact me through X (Twitter).",
+        "soundCloud": "SoundCloud",
+        "soundCloudDesc": "Listen to the latest music here.",
+        "instagram": "Instagram",
+        "youTube": "YouTube",
+        "niconico": "niconico",
+        "niconicoDesc": "*Updates only for Vocaloid songs.",
+        "bilibili": "Bilibili",
+        "bilibiliDesc": "*仅更新 Vocaloid 歌曲，中文",
+        "github": "GitHub",
+        "misskeyIo": "Misskey.io"
+    },
+    "pagesLink": {
+        "profile": "Profile",
+        "profileDesc": "For those who want to know more about me."
+    },
+    "mainPage": {
+        "title": "Home",
+        "contact": "Contact",
+        "infomation": "Information",
+        "infomationDesc": "We are currently accepting a few requests for composition and arrangement of original songs. <br />If you are considering this, please feel free to contact me by DM on X (Twitter) or via the form."
+    },
+    "profilePage": {
+        "title": "Profile",
+        "hello": "My name is Mizumamna (みずまんま)!",
+        "helloDesc": "Hello! I am a university student from Japan. <br /> 20 years old, Composer/Vocaloid, Coding, Accounting. <br /><br /> I love music, especially the genres of JEDM and HappyHardcore. I also compose music and look forward to your requests ❤🥰. <br /><br /> In particular, I love the songs of Yasutaka Nakata and Yunomi ❤."
+    },
+    "notFoundPage": {
+        "msg": "Oops! Not found.",
+        "title": "Not Found",
+        "desc": "The URL may be incorrect or the content has been deleted.",
+        "button": "Back to Home"
+    }
+}

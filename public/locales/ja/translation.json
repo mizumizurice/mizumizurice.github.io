@@ -1,0 +1,45 @@
+{
+    "homePageTitle": "みずまんま【公式】",
+    "header": {
+        "pages": "ページ",
+        "profileDesc": "20歳。 作編曲，コーディング，会計などをしています。<br />英語 🇬🇧 と日本語 🇯🇵 を話すことができます。<br />税理士の勉強中。",
+        "showMore": "もっと見る",
+        "socials": "ソーシャル",
+        "contact": "お問い合わせ"
+    },
+    "socialLink": {
+        "x": "X(Twitter) - おすすめ",
+        "xDesc": "お問い合わせもX(Twitter)から行うことが可能です",
+        "soundCloud": "SoundCloud",
+        "soundCloudDesc": "最新の音楽はここから聞くことができます",
+        "instagram": "Instagram",
+        "youTube": "YouTube",
+        "niconico": "ニコニコ動画",
+        "niconicoDesc": "※Vocaloid曲のみの更新",
+        "bilibili": "哔哩哔哩",
+        "bilibiliDesc": "※Vocaloid曲のみ更新，中国語",
+        "github": "GitHub",
+        "misskeyIo": "Misskey.io"
+    },
+    "pagesLink": {
+        "profile": "自己紹介",
+        "profileDesc": "私について詳しく知りたい方はこちらです"
+    },
+    "mainPage": {
+        "title": "ホーム",
+        "contact": "お問い合わせ",
+        "infomation": "インフォメーション",
+        "infomationDesc": "現在はオリジナル曲等の作編曲のご依頼を少々受け付けております。<br />ご検討中のお客様は，お気軽にX(Twitter)のDM機能又はメールアドレスmizumizurice☆gmail.com(☆をアットマークに変換してください)までご相談ください。"
+    },
+    "profilePage": {
+        "title": "自己紹介",
+        "hello": "私の名前はみずまんまです！",
+        "helloDesc": "こんにちは！私は，日本出身の大学生です。<br />20歳，作編曲/Vocaloid，コーディング，会計<br /><br />音楽が好きで，（特にJEDMやHappyHardcoreというジャンルがとても好きです），作編曲も行っております。ご依頼をお待ちしております❤🥰<br /><br />特に，中田ヤスタカさんとYunomiさんの曲が好きであります❤"
+    },
+    "notFoundPage": {
+        "msg": "おっと！見つかりませんでした",
+        "title": "見つかりませんでした",
+        "desc": "URLが間違っているか削除された可能性があります",
+        "button": "ホームに戻る"
+    }
+}
