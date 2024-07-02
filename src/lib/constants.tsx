@@ -7,7 +7,7 @@ import {
   FaXTwitter,
   FaYoutube,
 } from "react-icons/fa6";
-import { SiMisskey, SiNiconico } from "react-icons/si";
+import { SiMisskey } from "react-icons/si";
 
 export const socialLink = [
   {
@@ -31,12 +31,6 @@ export const socialLink = [
     icon: <FaYoutube size="24" />,
     title: "socialLink.youTube",
     href: "https://www.youtube.com/@mizumizurice",
-  },
-  {
-    icon: <SiNiconico size="24" />,
-    title: "socialLink.niconico",
-    href: "https://www.nicovideo.jp/user/98072325",
-    description: "socialLink.niconicoDesc",
   },
   {
     icon: <FaBilibili size="24" />,
