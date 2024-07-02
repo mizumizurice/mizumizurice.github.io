@@ -1,7 +1,7 @@
 import MediaPlayer from "@/components/main/MediaPlayer";
 const LatestContents = () => {
   const latestContents = [
-    "https://www.youtube.com/shorts/sWxT4CJSLxc",
+    "https://soundcloud.com/mizumizurice/ctw",
     "https://soundcloud.com/mizumizurice/ctl",
     "https://www.youtube.com/watch?v=vD4xgA8K0YM",
     "https://www.youtube.com/watch?v=r6c0PjvCEg8",
