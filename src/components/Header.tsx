@@ -23,7 +23,7 @@ const Header = () => {
   const { t } = useTranslation();
 
   return (
-    <header className="h-16 w-full flex items-center justify-between fixed bg-background/90 z-10">
+    <header className="h-16 w-full flex items-center justify-between fixed left-0 right-0 top-0 bg-background/90 z-10">
       <Link to="/" className="p-3 min-w-fit h-full">
         <img
           src="./images/logo.webp"
