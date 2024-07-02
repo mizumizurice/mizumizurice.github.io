@@ -24,13 +24,12 @@ const Header = () => {
 
   return (
     <header className="h-16 w-full flex items-center justify-between fixed left-0 right-0 top-0 bg-background/90 z-10">
-      <Link to="/" className="p-3 shrink-0 w-fit h-full">
-        <img
-          src="./images/logo.webp"
-          className="object-cover min-w-fit h-full"
-        />
+      <Link to="/" className="p-3">
+        <div className="object-contain max-w-[192px] h-full">
+          <img src="./images/logo.webp" className="w-full h-full" />
+        </div>
       </Link>
-      <div className="w-full max-lg:hidden">
+      <div className="grow max-lg:hidden">
         <NavigationMenu>
           <NavigationMenuList>
             <NavigationMenuItem>
